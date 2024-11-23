@@ -11,3 +11,5 @@ Brief code for HOD in TNG300:
 - HOD4_proyect_fit.ipynb is the script used to fit our HOD with the five-parameter model (M_min, sigma_logM, M_cut, M_1, alpha). The fitting process is a bit challenging, but you can try to improve it.
   
 - HOD5_proyect_CF.ipynb is the script to compute correlation function (for a clustering measurement) of our sample, you can try connecting it with the five-parameters HOD model.
+
+- HOD_project_presentation.pdf is the pdf presentation
