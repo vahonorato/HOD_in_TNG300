@@ -13,3 +13,5 @@ Brief code for HOD in TNG300:
 - HOD5_proyect_CF.ipynb is the script to compute correlation function (for a clustering measurement) of our sample, you can try connecting it with the five-parameters HOD model.
 
 - HOD_project_presentation.pdf is the presentation pdf
+
+If you need the data, feel free to contact me.
